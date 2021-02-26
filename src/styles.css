@@ -1,0 +1,8 @@
+.idr-action-bar {
+  height: 45px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.1);
+  margin: 20px 0;
+  padding: 0 10px;
+}
